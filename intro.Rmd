@@ -1,7 +1,6 @@
 ---
 title: "EcoDataScience"
-subtitle: "⚔ Tel Aviv"
-author: ""
+subtitle: "Tel Aviv"
 date: "2018/10/17"
 output:
   xaringan::moon_reader:
@@ -20,15 +19,15 @@ options(htmltools.dir.version = FALSE)
 
 EcoDataScience at UC Santa Barbara
 
-![](img/ucsb_who-we-are.png)
+![](img/ucsb_who-we-are.PNG)
 ---
-![](img/ucsb_what-we-do.png)
+![](img/ucsb_what-we-do.PNG)
 ---
 
-![](img/ucsb_pkgs.png)
+![](img/ucsb_pkgs.PNG)
 
 ---
-![](img/ucsb_not-r.png)
+![](img/ucsb_not-r.PNG)
 ---
 
 ## Topics
