@@ -1,0 +1,62 @@
+---
+title: "EcoDataScience"
+subtitle: "⚔ Tel Aviv"
+author: ""
+date: "2018/10/17"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Inspiration
+
+EcoDataScience at UC Santa Barbara
+
+![](img/ucsb_who-we-are.png)
+---
+![](img/ucsb_what-we-do.png)
+---
+
+![](img/ucsb_pkgs.png)
+
+---
+![](img/ucsb_not-r.png)
+---
+
+## Topics
+
+.pull-left[
+- **data wrangling** with the tidyverse (tidyr, dplyr)
+- data **visualization** (ggplot2)
+- regular expressions, **text** analysis (stringr, tidytext)
+- **iteration** (purrr)
+- version control & collaboration (**git**/GitHub)
+- **RMarkdown** & friends (bookdown, blogdown, etc.)
+- **data management** best practices
+]
+
+.pull-right[
+- working with **Excel** in R
+- **vegan**/statistical packages
+- **spatial** analysis (sf, raster, Python)
+- **Shiny** web applications
+- working with & creating **web APIs**
+- **R packages**
+- **parallel computing**, supercomputing
+]
+
+---
+
+# Logistics
+
+- 1 meeting every 2 (or 3?) weeks
+- 1-2 hour meeting
+- virtual participants
