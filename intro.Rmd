@@ -17,11 +17,25 @@ options(htmltools.dir.version = FALSE)
 
 # Inspiration
 
-EcoDataScience at UC Santa Barbara
+```{r out.width='100%', fig.height=6, eval=require('leaflet'), echo = FALSE}
+library(leaflet)
+leaflet() %>% 
+    addTiles() %>% 
+    setView(-119.848947, 34.4139629, zoom = 5) %>% 
+    addMarkers(-119.848947, 34.4139629)
+
+```
+
+---
+
+# EcoDataScience at UC Santa Barbara
 
 ![](img/ucsb_who-we-are.PNG)
+
 ---
+
 ![](img/ucsb_what-we-do.PNG)
+
 ---
 
 ![](img/ucsb_pkgs.PNG)
@@ -30,7 +44,22 @@ EcoDataScience at UC Santa Barbara
 ![](img/ucsb_not-r.PNG)
 ---
 
-## Topics
+# EcoDataSci TLV
+
+.pull-left[
+![](img/clay.jpg)
+]
+
+.pull-right[
+What do you want get out of the group?
+
+What can you contribute?
+]
+
+
+---
+
+# Topics
 
 .pull-left[
 - **data wrangling** with the tidyverse (tidyr, dplyr)
