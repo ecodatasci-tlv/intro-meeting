@@ -21,4 +21,5 @@ Intro meeting: https://ecodatasci-tlv.github.io/intro-meeting/intro.html#1
 ## Miscellaneous
 
 - [R for Data Science book](http://r4ds.had.co.nz/)
+- [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [reprex](https://reprex.tidyverse.org/)
